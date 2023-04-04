@@ -1,0 +1,29 @@
+table {
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+
+.r{
+    background-color: red;
+}
+
+tr {
+  height: 30px;
+}
+
+
+img{
+    height: 220px;
+    width: 300px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 100;
+}
+.container{
+height: 500px;
+width: 500px;
+}

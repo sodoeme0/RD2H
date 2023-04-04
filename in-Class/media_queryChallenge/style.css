@@ -1,0 +1,81 @@
+body {
+
+
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+     
+   
+}
+
+@media(min-width: 320px){
+    h1::after{
+        content: 'Be victorious'
+    }
+}
+
+
+@media(min-width: 420px){
+    h1::after{
+        content: 'Be Goodness'
+    }
+}
+
+@media(min-width: 520px){
+    h1::after{
+        content: 'Be Successful'
+    }
+}
+
+@media(min-width: 620px){
+    h1::after{
+        content: 'Be Upright'
+    }
+}
+
+@media(min-width: 720px){
+    h1::after{
+        content: 'Be Favor'
+    }
+}
+
+@media(min-width: 820px){
+    h1::after{
+        content: 'Be Fortunate'
+    }
+}
+
+@media(min-width: 920px){
+    h1::after{
+        content: 'Be Goodness'
+    }
+}
+
+@media(min-width: 1020px){
+    h1::after{
+        content: 'Be Expirienced'
+    }
+}
+
+@media(min-width: 1120px){
+    h1::after{
+        content: 'Be Understanding'
+    }
+}
+
+@media(min-width: 12220px){
+    h1::after{
+        content: 'Be Knowledgful'
+    }
+}
+
+@media(min-width: 1320px){
+    h1::after{
+        content: 'Be Righteous'
+    }
+}
+
+
+

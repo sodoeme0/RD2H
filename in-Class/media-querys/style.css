@@ -1,0 +1,49 @@
+body{
+    background-color: white;
+}
+
+.details{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+/* Media Queries*/
+
+/* Mobile first, we start from the smallest viewport width */
+
+/* from 320px and up */
+
+@media (min-width:320px){
+    body{
+        background-color: blue;
+    }
+}
+
+/* from 760px and up */
+@media (min-width: 768px){
+    body{
+        background-color: green;
+    }
+}
+
+/* from 1024px and up */
+@media (min-width: 1024px){
+    body{
+        background-color: yellow;
+    }
+}
+
+
+/* from 1224px and up */
+@media (min-width: 1224px){
+    body{
+        background-color: orange;
+    }
+}
+
+/* from 1824px and up */
+@media (min-width: 1824px){
+    body{
+        background-color: aqua;
+    }
+}
